@@ -8,9 +8,7 @@
         <a href="https://www.netlify.com/products/functions/"
           >Netlify Functions</a
         >, <a href="https://www.netlify.com/products/forms/">Forms</a>, and
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
+        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Şifahi imtihanlar.
       </p>
 
       <p>
